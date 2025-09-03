@@ -1,0 +1,5 @@
+/* assets/style.css — Bootstrap helpers */
+body { padding-top: 32px; }
+.card-sh { box-shadow: 0 10px 30px rgba(0,0,0,.08); }
+.brand { font-weight: 700; letter-spacing: .5px; }
+.text-small { font-size: .925rem; }
