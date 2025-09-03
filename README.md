@@ -1,4 +1,4 @@
-# MicAuth-PHP — Autenticação PHP com verificação de e-mail (por MicDog)
+# MicAuth-PHP — Autenticação PHP com verificação de e-mail
 
 Projeto completo e **pronto para produção leve** em PHP (sem framework) com:
 - Registro/Login com **hash de senha (bcrypt)** e **CSRF**
